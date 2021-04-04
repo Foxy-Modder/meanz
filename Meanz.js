@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const fs = require('fs')
+const client = new Discord.Client({ disableMentions: "everyone" })
 const config = require('./config.js')
 const glob = require('glob')
 
