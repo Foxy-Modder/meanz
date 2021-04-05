@@ -10,8 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "-": "0.0.1",
+    "@discordjs/opus": "^0.5.0",
     "@iamtraction/google-translate": "^1.1.2",
     "discord.js": "^12.5.1",
+    "distube": "^2.8.12",
+    "ffmpeg-static": "^4.3.0",
     "fs": "0.0.1-security",
     "g": "^2.0.1",
     "glob": "^7.1.6",
