@@ -3,10 +3,10 @@ const { prefix } = require(`../../../config`);
 
 module.exports = {
     name: 'embed',
-    aliases: [' '],
-    description: '',
-    category: '',
-    usage: '',
+    aliases: ['em'],
+    description: 'create-embed',
+    category: 'utility',
+    usage: `${prefix}embed JSON`,
     /** 
      * @param {Client} client 
      * @param {Message} message 

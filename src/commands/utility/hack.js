@@ -4,9 +4,9 @@ const { sleep } = require('../../../function/sleep')
 
 module.exports = {
     name: 'hack',
-    aliases: [' '],
-    description: '',
-    category: '',
+    aliases: ['hack'],
+    description: 'hack into a person account',
+    category: 'Fun',
     usage: '',
     /** 
      * @param {Client} client 
